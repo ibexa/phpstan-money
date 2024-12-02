@@ -6,8 +6,7 @@
     "ibexa-dxp"
   ],
   "require": {
-    "php": "^7.4 || ^8.0",
-    "phpstan/phpstan": "^1.0"
+    "php": "^7.4 || ^8.0"
   },
   "config": {
     "sort-packages": true
